@@ -9,67 +9,67 @@ Some of the projects had benchmarks along the way that would allow you to compar
 listed below is a brief explanation of each project, along with the concepts covered within the lesson. 
 
 ## Crossy Road
-###Summary
+### Summary
 A twist on the classic Crossy Road game involving the worlds fastest turtle.
 ### Concepts
 [Multi-File Management, Tkinter, Active Gameplay, Keybindings, Memory]
 
 ## JB's Flight Tracker
-###Summary
+### Summary
 A low-cost flight detection app, with user signups, location database, and SMS User Notifications.
 ### Concepts
 [API Pulls, JSON Data, Google Sheets API, Twilio SMS Notifications, AUTH Tokens]
 
 ## Kanye Quotes
-###Summary
+### Summary
 A simple Tweet grabber that pulls a random tidbit from Kanye West's Twitter page and shares the glorious wisdom.
 ### Concepts
 [rest API, Tkinter, Canvas, Grid]
 
 ## Password Manager
-###Summary
+### Summary
 A simple password manager desktop app that stores username/password inputs with associated website data.
 ### Concepts
 [Data Management & Storage, JSON, Tkinter Widgets, Tk Grid]
 
 ## Pomodoro Clock
-###Summary
+### Summary
 A cool desktop clock that helps promote productivity by breaking up time.
 ### Concepts
 [Styled GUI, Embedded images, ]
 
 ## Pong
-###Summary
+### Summary
 It's Pong!
 ### Concepts
 [Multi-User Gameplay, Time module, Tkinter GUI]
 
 ## Quiz Game
-###Summary
+### Summary
 A Simple Quiz game that pulls questions from and online database and tests your skills!
 ### Concepts
 [API, Game Save, Randomization, Class Creation, Class Funtions, Tkinter GUI]
 
 ## Simple Console Calculator
-###Summary
+### Summary
 The most simple of calculators
 ### Concepts
 [Basic Functions, Printing, User Input, Console, Operands & Calculation]
 
 ## Text based RPG
-###Summary
+### Summary
 This was my absoloute first program, a charming text based RPG with multiple rooms and terrifying monsters!
 ### Concepts
 [Basic Functions, Printing, User Input, Console]
 
 ## Snake
-###Summary
+### Summary
 Its Snake!
 ### Concepts
 [Class Creation, Tkinter GUI, Time Module, OOP Focus, Key Listening]
 
 ## Turtle Race
-###Summary
+### Summary
 Feeling Lucky? Place your bets on this high speed turtle action game 
 ### Concepts
 [Game Automation, Tkinter Widgets, Game AI, Embedded Imgages,  Tkinter Drawing]
