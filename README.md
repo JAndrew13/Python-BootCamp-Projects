@@ -25,7 +25,7 @@ A low-cost flight detection app, with user signups, location database, and SMS U
 ## Kanye Quotes
 https://github.com/JAndrew13/Python-BootCamp-Projects/tree/main/Kanye_Quotes_API
 ### Summary
-A simple Tweet grabber that pulls a random tidbit from Kanye West's Twitter page and shares the glorious wisdom.
+A simple Tweet grabber that pulls a random tidbit from Kanye West's Twitter page and shares the "glorious wisdom".
 ### Concepts
 [rest API, Tkinter, Canvas, Grid]
 
