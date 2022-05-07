@@ -4,6 +4,9 @@ import requests
 from flight_data import FlightData
 
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
+# API keys in the code is BIG NO-NO!
+# Instead, do use environment variables:
+# TEQUILA_API_KEY = os.environ["TEQUILA_API_KEY"]
 TEQUILA_API_KEY = "xEQE-BJDSANGOE00-UAXtYhkvxZNVh06"
 
 
@@ -30,6 +33,7 @@ class FlightSearch:
 
         return self.city_codes
 
+    # TODO: this is a huge function. How could you refactor it to break it into smaller, more concise functions?
     def check_flights(self, origin_city_code, destination_city_code, from_time, to_time, ):
         print(f"Check flights triggered for {destination_city_code}")
         headers = {"apikey": TEQUILA_API_KEY}
